@@ -1,5 +1,5 @@
 $primary-color: #fff;
-$background-color: linear-gradient(54deg, #9164ff, #8bfff4);
+$background-color: linear-gradient(to right, #3a7bd5, #00d2ff);
 $text-color: #3c3f64;
 
 *,
@@ -80,7 +80,7 @@ body {
         width: 20px;
         height: 20px;
         z-index: 2;
-        background: #eee;
+        background: #ffc7c7;
       }
       div {
         position: relative;
@@ -94,7 +94,7 @@ body {
         align-items: center;
         time {
           position: absolute;
-          background: #f5af19;
+          background: #ffc7c7;
           width: 80px;
           height: 30px;
           top: -15px;
